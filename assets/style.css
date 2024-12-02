@@ -1,11 +1,10 @@
 body {
 	max-width: 1920px;
-	margin: auto;
-}
-* {
-	font-family: 'Inter';
-	font-style: normal;
-}
+	margin: auto;}
+	* {
+		font-family: 'Inter', 'Arial', sans-serif;
+		font-style: normal;
+	}
 .top-header {
 	background-color: white;
 	position: sticky;
