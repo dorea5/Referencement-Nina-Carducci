@@ -16,7 +16,10 @@ body {
 	padding-block: 30px;
 	align-items: center;
 }
-
+.number{
+	text-align: none;
+	color: black;
+}
 .top-header .name {
 	font-size: 26px;
 }
