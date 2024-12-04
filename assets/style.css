@@ -180,6 +180,11 @@ body {
 
 }
 
+.prix{
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
 .service {
 	background-color: white;
 	max-width: 390px;
